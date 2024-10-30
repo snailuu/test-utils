@@ -1,6 +1,6 @@
 {
   "name": "@snailuu/test-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "这是第一个测试的npm包，没啥用",
   "type": "module",
   "module": "dist/index.js",
