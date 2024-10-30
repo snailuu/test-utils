@@ -13,7 +13,8 @@ export default {
     // 指定输出文件的路径和名称
     file: 'dist/index.js',
      // 指定输出文件的格式，这里是UMD格式，可以在浏览器和Node.js环境中使用
-    format: 'umd'
+    format: 'umd',
+    exports: 'default'
   },
    // 使用的插件列表，这里只包含typescript插件，用于编译TypeScript代码
   plugins: [
